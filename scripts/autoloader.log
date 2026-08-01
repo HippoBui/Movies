@@ -1,1270 +1,6 @@
 Starting MakeMKV autoloader monitor...
 Disc detected. Creating lock file and starting rip script.
 Starting Hybrid Ripping Pipeline...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Forced unmount of all volumes on disk4 was successful
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Forced unmount of all volumes on disk4 was successful
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Forced unmount of all volumes on disk4 was successful
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Another rip is already in progress. Exiting.
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk4 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk4 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Forced unmount of all volumes on disk4 was successful
-Starting fresh ddrescue in FORWARD mode...
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Another rip is already in progress. Exiting.
-Starting MakeMKV autoloader monitor...
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-Forced unmount of all volumes on disk4 was successful
-Starting fresh ddrescue in FORWARD mode...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk4 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Starting MakeMKV autoloader monitor...
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-Forced unmount of all volumes on disk5 was successful
-Starting fresh ddrescue in FORWARD mode...
-Forced unmount of all volumes on disk5 was successful
-Disk /dev/rdisk5 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk5 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Starting MakeMKV autoloader monitor...
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-Forced unmount of all volumes on disk5 was successful
-Starting fresh ddrescue in FORWARD mode...
-Forced unmount of all volumes on disk5 was successful
-Disk /dev/rdisk5 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk5 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Starting MakeMKV autoloader monitor...
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk5 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Starting MakeMKV autoloader monitor...
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-HandBrake ripping Title 1 to /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title1.mkv ...
-[20:51:49] Compile-time hardening features are enabled
-[20:51:49] hb_init: starting libhb thread
-[20:51:49] thread 16fa2b000 started ("libhb")
-HandBrake 1.11.2 (2026060700) - Darwin arm64 - https://handbrake.fr
-12 CPUs detected
-Opening /dev/disk5...
-[20:51:49] OS: macOS 26.5.2 (25F84)
-[20:51:49] CPU: Apple M3 Pro
-[20:51:49]  - logical processor count: 12
-[20:51:49] hb_scan: path=/dev/disk5, title_index=1
-Scanning title 1 of 1, 0.00 %Scanning title 1 of 1, 0.00 %disc.c:437: error opening file BDMV/index.bdmv
-disc.c:437: error opening file BDMV/BACKUP/index.bdmv
-Scanning title 1 of 1, 0.00 %[20:51:50] bd: not a bd - trying as a stream/file instead
-Scanning title 1 of 1, 0.00 %[20:51:50] scan: DVD has 9 title(s)
-[20:51:50] scan: scanning title 1
-[20:51:50] scan: duration is 00:00:04 (4000 ms)
-[20:51:50] pgc_id: 1, pgn: 1: pgc: 0x780e14780
-[20:51:50] scan: checking audio 1
-[20:51:50] scan: id=0x80bd, lang=English (AC3), 3cc=eng ext=0
-[20:51:50] scan: title 1 has 1 chapters
-[20:51:50] scan: chap 1, 4000 ms
-[20:51:50] scan: aspect = 16:9
-[20:51:50] scan: decoding previews for title 1
-[20:51:50] scan: title angle(s) 1
-Scanning title 1 of 1, preview 1, 10.00 %Scanning title 1 of 1, preview 1, 10.00 %[20:51:51] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 English (AC3, 5.1 ch, 448 kbps)
-Scanning title 1 of 1, preview 2, 20.00 %Scanning title 1 of 1, preview 2, 20.00 %Scanning title 1 of 1, preview 3, 30.00 %Scanning title 1 of 1, preview 4, 40.00 %Scanning title 1 of 1, preview 7, 70.00 %Scanning title 1 of 1, preview 9, 90.00 %libdvdnav: Error when seeking
-ERROR: dvd: dvdnav_sector_search failed - Error when seeking.
-[20:51:52] using bitstream PAR 32:27
-[20:51:52] scan: 9 previews, 720x480, 29.970 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27, color profile: 6-1-6, chroma location: left
-[20:51:52] libhb: scan thread found 1 valid title(s)
-+ Using preset: H.265 Apple VideoToolbox 1080p
-+ title 1:
-  + index 1
-  + duration: 00:00:04
-  + size: 720x480, pixel aspect: 32/27, display aspect: 1.78, 29.970 fps
-  + autocrop: 0/0/0/0
-  + chapters:
-    + 1: duration 00:00:04
-  + audio tracks:
-    + 1, English (AC3, 5.1 ch, 448 kbps) (iso639-2: eng), 48000Hz, 448000bps
-  + subtitle tracks:
-[20:51:52] Starting work at: Thu Jul 30 20:51:52 2026
-
-[20:51:52] 1 job(s) to process
-[20:51:52] json job:
-{
-    "Audio": {
-        "AudioList": [
-            {
-                "Bitrate": 160,
-                "CompressionLevel": -1.0,
-                "DRC": 0.0,
-                "DitherMethod": "auto",
-                "Encoder": "ca_aac",
-                "Gain": 0.0,
-                "Mixdown": "stereo",
-                "Name": "Stereo",
-                "NormalizeMixLevel": false,
-                "PresetEncoder": "ca_aac",
-                "Quality": -3.0,
-                "Samplerate": 0,
-                "Track": 0
-            }
-        ],
-        "CopyMask": [
-            "copy:aac"
-        ],
-        "FallbackEncoder": "none"
-    },
-    "Destination": {
-        "AlignAVStart": false,
-        "ChapterList": [
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 0,
-                    "Seconds": 4,
-                    "Ticks": 360000
-                },
-                "Name": "Chapter 1"
-            }
-        ],
-        "ChapterMarkers": false,
-        "File": "/Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title1.mkv",
-        "InlineParameterSets": false,
-        "Mux": "mkv",
-        "Options": {
-            "IpodAtom": false,
-            "Optimize": false
-        }
-    },
-    "Filters": {
-        "FilterList": [
-            {
-                "ID": 11,
-                "Settings": {
-                    "mode": 0
-                }
-            },
-            {
-                "ID": 20,
-                "Settings": {
-                    "crop-bottom": 0,
-                    "crop-left": 0,
-                    "crop-right": 0,
-                    "crop-top": 0,
-                    "height": 480,
-                    "width": 720
-                }
-            }
-        ]
-    },
-    "Metadata": {},
-    "PAR": {
-        "Den": 27,
-        "Num": 32
-    },
-    "SequenceID": 0,
-    "Source": {
-        "Angle": 0,
-        "HWDecode": 0,
-        "KeepDuplicateTitles": false,
-        "Path": "/dev/disk5",
-        "Range": {
-            "End": 1,
-            "Start": 1,
-            "Type": "chapter"
-        },
-        "Title": 1
-    },
-    "Subtitle": {
-        "Search": {
-            "Burn": true,
-            "Default": false,
-            "Enable": false,
-            "Forced": false
-        },
-        "SubtitleList": []
-    },
-    "Video": {
-        "AdapterIndex": -1,
-        "AsyncDepth": 0,
-        "ChromaLocation": 1,
-        "ColorInputFormat": 0,
-        "ColorMatrix": 6,
-        "ColorOutputFormat": 0,
-        "ColorPrimaries": 6,
-        "ColorRange": 1,
-        "ColorTransfer": 1,
-        "Encoder": "vt_h265_10bit",
-        "HardwareDecode": 0,
-        "Level": "auto",
-        "MultiPass": false,
-        "Options": "",
-        "PasshtruHDRDynamicMetadata": 6,
-        "Preset": "speed",
-        "Profile": "auto",
-        "Quality": 60.0,
-        "Tune": "",
-        "Turbo": false
-    }
-}
-[20:51:52] Starting Task: Encoding Pass
-[20:51:52] work: skipping crop/scale filter
-[20:51:52] job configuration:
-[20:51:52]  * source
-[20:51:52]    + /dev/disk5
-[20:51:52]    + title 1, chapter(s) 1 to 1
-[20:51:52]  * destination
-[20:51:52]    + /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title1.mkv
-[20:51:52]    + container: Matroska (libavformat)
-[20:51:52]  * video track
-[20:51:52]    + decoder: mpeg2video 8-bit (yuv420p)
-[20:51:52]      + bitrate 200 kbps
-[20:51:52]    + filters
-[20:51:52]      + Framerate Shaper (mode=0)
-[20:51:52]        + frame rate: same as source (around 29.970 fps)
-[20:51:52]      + Format (format=nv12)
-[20:51:52]    + Output geometry
-[20:51:52]      + storage dimensions: 720 x 480
-[20:51:52]      + pixel aspect ratio: 32 : 27
-[20:51:52]      + display dimensions: 853 x 480
-[20:51:52]    + encoder: H.265 10-bit (VideoToolbox)
-[20:51:52]      + preset:  speed
-[20:51:52]      + profile: auto
-[20:51:52]      + level:   auto
-[20:51:52]      + quality: 60.00 (CQ)
-[20:51:52]      + color profile: 6-1-6
-[20:51:52]      + color range: tv
-[20:51:52]      + chroma location: left
-[20:51:52]  * audio track 1
-[20:51:52]    + name: Stereo
-[20:51:52]    + decoder: English (AC3, 5.1 ch, 448 kbps) (track 1, id 0x80bd)
-[20:51:52]      + bitrate: 448 kbps, samplerate: 48000 Hz
-[20:51:52]    + mixdown: Stereo
-[20:51:52]    + encoder: AAC (Apple AudioToolbox)
-[20:51:52]      + bitrate: 160 kbps, samplerate: 48000 Hz
-[20:51:52] sync: expecting 119 video frames
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-libdvdnav: FIXME: Implement seeking to location 1236
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %[20:51:54] encvt_Init: encoding with constant quality 60.000000
-[20:51:54] encvt_Init: com.apple.videotoolbox.videoencoder.ave.hevc
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-Encoding: task 1 of 1, 0.00 %[20:51:55] sync: first pts video is 0
-[20:51:55] sync: "Chapter 1" (1) at frame 1 time 0
-[20:51:55] sync: first pts audio 0x80bd is 0
-[20:51:55] reader: done. 1 scr changes
-[20:51:55] work: average encoding speed for job is 0.000000 fps
-Encoding: task 1 of 1, 100.00 %[20:51:55] vfr: 120 frames output, 0 dropped
-[20:51:55] vfr: lost time: 0 (0 frames)
-[20:51:55] vfr: gained time: 0 (0 frames) (0 not accounted for)
-[20:51:55] ac3-decoder done: 125 frames, 0 decoder errors
-[20:51:55] mpeg2video-decoder done: 120 frames, 0 decoder errors
-[20:51:55] sync: got 120 frames, 119 expected
-[20:51:55] sync: framerate min 29.970 fps, max 29.970 fps, avg 29.970 fps
-[20:51:55] mux: track 0, 120 frames, 376985 bytes, 746.99 kbps, fifo 128
-[20:51:55] mux: track 1, 190 frames, 66867 bytes, 132.50 kbps, fifo 256
-[20:51:55] Finished work at: Thu Jul 30 20:51:55 2026
-
-[20:51:55] libhb: work result = 0
-
-Encode done!
-HandBrake has exited.
-
-HandBrake ripping Title 2 to /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title2.mkv ...
-[20:51:55] Compile-time hardening features are enabled
-[20:51:55] hb_init: starting libhb thread
-[20:51:55] thread 16f57f000 started ("libhb")
-HandBrake 1.11.2 (2026060700) - Darwin arm64 - https://handbrake.fr
-12 CPUs detected
-Opening /dev/disk5...
-[20:51:55] OS: macOS 26.5.2 (25F84)
-[20:51:55] CPU: Apple M3 Pro
-[20:51:55]  - logical processor count: 12
-[20:51:55] hb_scan: path=/dev/disk5, title_index=2
-Scanning title 1 of 1, 0.00 %disc.c:437: error opening file BDMV/index.bdmv
-disc.c:437: error opening file BDMV/BACKUP/index.bdmv
-Scanning title 1 of 1, 0.00 %[20:51:56] bd: not a bd - trying as a stream/file instead
-Scanning title 1 of 1, 0.00 %[20:51:56] scan: DVD has 9 title(s)
-[20:51:56] scan: scanning title 2
-[20:51:56] scan: duration is 00:00:10 (10000 ms)
-[20:51:56] pgc_id: 2, pgn: 1: pgc: 0x87720d680
-[20:51:56] scan: checking audio 1
-[20:51:56] scan: id=0x80bd, lang=English (AC3), 3cc=eng ext=0
-[20:51:56] scan: title 2 has 2 chapters
-[20:51:56] scan: chap 1, 5000 ms
-[20:51:56] scan: chap 2, 5000 ms
-[20:51:56] scan: aspect = 16:9
-[20:51:56] scan: decoding previews for title 2
-[20:51:56] scan: title angle(s) 1
-Scanning title 1 of 1, preview 1, 10.00 %[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-Scanning title 1 of 1, preview 1, 10.00 %[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] invalid bitstream id
-[ac3 @ 0x8774d4380] unable to determine channel mode
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[ac3 @ 0x8774d4380] frame CRC mismatch
-[20:51:56] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 English (AC3, 5.1 ch, 448 kbps)
-[20:51:56] Warning: Could not read data for preview 1, skipped
-[20:51:56] scan: Too few previews (0), trying harder
-[20:51:56] scan: decoding previews for title 2
-[20:51:56] scan: title angle(s) 1
-[20:51:56] Warning: Could not read data for preview 1, skipped
-[20:51:56] libhb: scan thread found 0 valid title(s)
-No title found.
-HandBrake has exited.
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-
-HandBrake ripping Title 3 to /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title3.mkv ...
-[20:51:56] Compile-time hardening features are enabled
-[20:51:57] hb_init: starting libhb thread
-[20:51:57] thread 16bddf000 started ("libhb")
-HandBrake 1.11.2 (2026060700) - Darwin arm64 - https://handbrake.fr
-12 CPUs detected
-Opening /dev/disk5...
-[20:51:57] OS: macOS 26.5.2 (25F84)
-[20:51:57] CPU: Apple M3 Pro
-[20:51:57]  - logical processor count: 12
-[20:51:57] hb_scan: path=/dev/disk5, title_index=3
-disc.c:437: error opening file BDMV/index.bdmv
-disc.c:437: error opening file BDMV/BACKUP/index.bdmv
-[20:51:57] bd: not a bd - trying as a stream/file instead
-[20:51:57] scan: DVD has 9 title(s)
-[20:51:57] scan: scanning title 3
-[20:51:57] scan: duration is 00:00:00 (500 ms)
-[20:51:57] pgc_id: 3, pgn: 1: pgc: 0x9aea7ca00
-[20:51:57] scan: checking audio 1
-[20:51:57] scan: id=0x80bd, lang=English (AC3), 3cc=eng ext=0
-[20:51:57] scan: title 3 has 1 chapters
-[20:51:57] scan: chap 1, 500 ms
-[20:51:57] scan: aspect = 16:9
-[20:51:57] scan: decoding previews for title 3
-[20:51:57] scan: title angle(s) 1
-[20:51:57] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 English (AC3, 5.1 ch, 448 kbps)
-[20:51:57] using bitstream PAR 32:27
-[20:51:57] scan: 10 previews, 720x480, 23.976 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27, color profile: 6-1-6, chroma location: left
-Scanning title 1 of 1, preview 10, 100.00 %[20:51:57] libhb: scan thread found 1 valid title(s)
-+ Using preset: H.265 Apple VideoToolbox 1080p
-+ title 3:
-  + index 3
-  + duration: 00:00:00
-  + size: 720x480, pixel aspect: 32/27, display aspect: 1.78, 23.976 fps
-  + autocrop: 0/0/0/0
-  + chapters:
-    + 1: duration 00:00:01
-  + audio tracks:
-    + 1, English (AC3, 5.1 ch, 448 kbps) (iso639-2: eng), 48000Hz, 448000bps
-  + subtitle tracks:
-[20:51:57] Starting work at: Thu Jul 30 20:51:57 2026
-
-[20:51:57] 1 job(s) to process
-[20:51:57] json job:
-{
-    "Audio": {
-        "AudioList": [
-            {
-                "Bitrate": 160,
-                "CompressionLevel": -1.0,
-                "DRC": 0.0,
-                "DitherMethod": "auto",
-                "Encoder": "ca_aac",
-                "Gain": 0.0,
-                "Mixdown": "stereo",
-                "Name": "Stereo",
-                "NormalizeMixLevel": false,
-                "PresetEncoder": "ca_aac",
-                "Quality": -3.0,
-                "Samplerate": 0,
-                "Track": 0
-            }
-        ],
-        "CopyMask": [
-            "copy:aac"
-        ],
-        "FallbackEncoder": "none"
-    },
-    "Destination": {
-        "AlignAVStart": false,
-        "ChapterList": [
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 0,
-                    "Seconds": 1,
-                    "Ticks": 45000
-                },
-                "Name": "Chapter 1"
-            }
-        ],
-        "ChapterMarkers": false,
-        "File": "/Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title3.mkv",
-        "InlineParameterSets": false,
-        "Mux": "mkv",
-        "Options": {
-            "IpodAtom": false,
-            "Optimize": false
-        }
-    },
-    "Filters": {
-        "FilterList": [
-            {
-                "ID": 11,
-                "Settings": {
-                    "mode": 0
-                }
-            },
-            {
-                "ID": 20,
-                "Settings": {
-                    "crop-bottom": 0,
-                    "crop-left": 0,
-                    "crop-right": 0,
-                    "crop-top": 0,
-                    "height": 480,
-                    "width": 720
-                }
-            }
-        ]
-    },
-    "Metadata": {},
-    "PAR": {
-        "Den": 27,
-        "Num": 32
-    },
-    "SequenceID": 0,
-    "Source": {
-        "Angle": 0,
-        "HWDecode": 0,
-        "KeepDuplicateTitles": false,
-        "Path": "/dev/disk5",
-        "Range": {
-            "End": 1,
-            "Start": 1,
-            "Type": "chapter"
-        },
-        "Title": 3
-    },
-    "Subtitle": {
-        "Search": {
-            "Burn": true,
-            "Default": false,
-            "Enable": false,
-            "Forced": false
-        },
-        "SubtitleList": []
-    },
-    "Video": {
-        "AdapterIndex": -1,
-        "AsyncDepth": 0,
-        "ChromaLocation": 1,
-        "ColorInputFormat": 0,
-        "ColorMatrix": 6,
-        "ColorOutputFormat": 0,
-        "ColorPrimaries": 6,
-        "ColorRange": 1,
-        "ColorTransfer": 1,
-        "Encoder": "vt_h265_10bit",
-        "HardwareDecode": 0,
-        "Level": "auto",
-        "MultiPass": false,
-        "Options": "",
-        "PasshtruHDRDynamicMetadata": 6,
-        "Preset": "speed",
-        "Profile": "auto",
-        "Quality": 60.0,
-        "Tune": "",
-        "Turbo": false
-    }
-}
-[20:51:57] Starting Task: Encoding Pass
-[20:51:57] work: skipping crop/scale filter
-[20:51:57] job configuration:
-[20:51:57]  * source
-[20:51:57]    + /dev/disk5
-[20:51:57]    + title 3, chapter(s) 1 to 1
-[20:51:57]  * destination
-[20:51:57]    + /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title3.mkv
-[20:51:57]    + container: Matroska (libavformat)
-[20:51:57]  * video track
-[20:51:57]    + decoder: mpeg2video 8-bit (yuv420p)
-[20:51:57]      + bitrate 200 kbps
-[20:51:57]    + filters
-[20:51:57]      + Framerate Shaper (mode=0)
-[20:51:57]        + frame rate: same as source (around 23.976 fps)
-[20:51:57]      + Format (format=nv12)
-[20:51:57]    + Output geometry
-[20:51:57]      + storage dimensions: 720 x 480
-[20:51:57]      + pixel aspect ratio: 32 : 27
-[20:51:57]      + display dimensions: 853 x 480
-[20:51:57]    + encoder: H.265 10-bit (VideoToolbox)
-[20:51:57]      + preset:  speed
-[20:51:57]      + profile: auto
-[20:51:57]      + level:   auto
-[20:51:57]      + quality: 60.00 (CQ)
-[20:51:57]      + color profile: 6-1-6
-[20:51:57]      + color range: tv
-[20:51:57]      + chroma location: left
-[20:51:57]  * audio track 1
-[20:51:57]    + name: Stereo
-[20:51:57]    + decoder: English (AC3, 5.1 ch, 448 kbps) (track 1, id 0x80bd)
-[20:51:57]      + bitrate: 448 kbps, samplerate: 48000 Hz
-[20:51:57]    + mixdown: Stereo
-[20:51:57]    + encoder: AAC (Apple AudioToolbox)
-[20:51:57]      + bitrate: 160 kbps, samplerate: 48000 Hz
-[20:51:57] sync: expecting 11 video frames
-[20:51:57] encvt_Init: encoding with constant quality 60.000000
-[20:51:57] encvt_Init: com.apple.videotoolbox.videoencoder.ave.hevc
-[20:51:57] reader: done. 1 scr changes
-[20:51:57] sync: first pts video is 0
-[20:51:57] sync: "Chapter 1" (1) at frame 1 time 0
-[20:51:57] sync: first pts audio 0x80bd is 0
-[20:51:57] work: average encoding speed for job is 0.000000 fps
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-Encoding: task 1 of 1, 100.00 %[20:51:57] vfr: 12 frames output, 0 dropped
-[20:51:57] vfr: lost time: 0 (0 frames)
-[20:51:57] vfr: gained time: 0 (0 frames) (0 not accounted for)
-[20:51:57] ac3-decoder done: 15 frames, 0 decoder errors
-[20:51:57] mpeg2video-decoder done: 12 frames, 0 decoder errors
-[20:51:57] sync: got 12 frames, 11 expected
-[20:51:57] sync: framerate min 19.980 fps, max 23.976 fps, avg 23.583 fps
-Muxing: this may take awhile...[20:51:57] mux: track 0, 12 frames, 1382 bytes, 20.39 kbps, fifo 16
-[20:51:57] mux: track 1, 25 frames, 299 bytes, 4.41 kbps, fifo 32
-[20:51:57] Finished work at: Thu Jul 30 20:51:57 2026
-
-[20:51:57] libhb: work result = 0
-
-Encode done!
-HandBrake has exited.
-
-HandBrake ripping Title 4 to /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title4.mkv ...
-[20:51:58] Compile-time hardening features are enabled
-[20:51:58] hb_init: starting libhb thread
-[20:51:58] thread 16bc5b000 started ("libhb")
-HandBrake 1.11.2 (2026060700) - Darwin arm64 - https://handbrake.fr
-12 CPUs detected
-Opening /dev/disk5...
-[20:51:58] OS: macOS 26.5.2 (25F84)
-[20:51:58] CPU: Apple M3 Pro
-[20:51:58]  - logical processor count: 12
-[20:51:58] hb_scan: path=/dev/disk5, title_index=4
-disc.c:437: error opening file BDMV/index.bdmv
-disc.c:437: error opening file BDMV/BACKUP/index.bdmv
-[20:51:58] bd: not a bd - trying as a stream/file instead
-[20:51:58] scan: DVD has 9 title(s)
-[20:51:58] scan: scanning title 4
-[20:51:58] scan: duration is 00:00:00 (500 ms)
-[20:51:58] pgc_id: 1, pgn: 1: pgc: 0x1086ad690
-[20:51:58] scan: checking audio 1
-[20:51:58] scan: id=0x80bd, lang=English (AC3), 3cc=eng ext=0
-[20:51:58] scan: title 4 has 1 chapters
-[20:51:58] scan: chap 1, 500 ms
-[20:51:58] scan: aspect = 16:9
-[20:51:58] scan: decoding previews for title 4
-[20:51:58] scan: title angle(s) 1
-[20:51:58] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=192000 English (AC3, 2.0 ch, 192 kbps)
-[20:51:58] using bitstream PAR 32:27
-[20:51:58] scan: 1 previews, 720x480, 23.976 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27, color profile: 6-1-6, chroma location: left
-[20:51:58] scan: Too few previews (1), trying harder
-[20:51:58] scan: decoding previews for title 4
-[20:51:58] scan: title angle(s) 1
-[20:51:58] libhb: scan thread found 0 valid title(s)
-No title found.
-HandBrake has exited.
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-
-HandBrake ripping Title 5 to /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title5.mkv ...
-[20:51:58] Compile-time hardening features are enabled
-[20:51:58] hb_init: starting libhb thread
-[20:51:58] thread 16bb0f000 started ("libhb")
-HandBrake 1.11.2 (2026060700) - Darwin arm64 - https://handbrake.fr
-12 CPUs detected
-Opening /dev/disk5...
-[20:51:58] OS: macOS 26.5.2 (25F84)
-[20:51:58] CPU: Apple M3 Pro
-[20:51:58]  - logical processor count: 12
-[20:51:58] hb_scan: path=/dev/disk5, title_index=5
-disc.c:437: error opening file BDMV/index.bdmv
-disc.c:437: error opening file BDMV/BACKUP/index.bdmv
-[20:51:58] bd: not a bd - trying as a stream/file instead
-[20:51:58] scan: DVD has 9 title(s)
-[20:51:58] scan: scanning title 5
-[20:51:58] scan: duration is 02:38:57 (9537433 ms)
-[20:51:58] pgc_id: 1, pgn: 1: pgc: 0x90b22c780
-[20:51:58] scan: checking audio 1
-[20:51:58] scan: id=0x80bd, lang=English (AC3), 3cc=eng ext=0
-[20:51:58] scan: checking subtitle 1
-[20:51:58] scan: id=0x20bd, lang=English (Wide Screen) [VOBSUB], 3cc=eng ext=0
-[20:51:58] scan: title 5 has 18 chapters
-[20:51:58] scan: chap 1, 99100 ms
-[20:51:58] scan: chap 2, 606000 ms
-[20:51:58] scan: chap 3, 609367 ms
-[20:51:58] scan: chap 4, 855533 ms
-[20:51:58] scan: chap 5, 674133 ms
-[20:51:58] scan: chap 6, 40300 ms
-[20:51:58] scan: chap 7, 80333 ms
-[20:51:58] scan: chap 8, 833934 ms
-[20:51:58] scan: chap 9, 843000 ms
-[20:51:58] scan: chap 10, 971533 ms
-[20:51:58] scan: chap 11, 752367 ms
-[20:51:58] scan: chap 12, 44567 ms
-[20:51:58] scan: chap 13, 94600 ms
-[20:51:58] scan: chap 14, 714033 ms
-[20:51:58] scan: chap 15, 771300 ms
-[20:51:58] scan: chap 16, 773166 ms
-[20:51:58] scan: chap 17, 729734 ms
-[20:51:58] scan: chap 18, 44433 ms
-[20:51:58] scan: aspect = 16:9
-[20:51:58] scan: decoding previews for title 5
-[20:51:58] scan: title angle(s) 1
-Scanning title 1 of 1, preview 1, 10.00 %Scanning title 1 of 1, preview 1, 10.00 %[20:51:59] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=448000 English (AC3, 5.1 ch, 448 kbps)
-Scanning title 1 of 1, preview 2, 20.00 %Scanning title 1 of 1, preview 2, 20.00 %Scanning title 1 of 1, preview 3, 30.00 %Scanning title 1 of 1, preview 4, 40.00 %Scanning title 1 of 1, preview 4, 40.00 %Scanning title 1 of 1, preview 5, 50.00 %Scanning title 1 of 1, preview 5, 50.00 %Scanning title 1 of 1, preview 6, 60.00 %Scanning title 1 of 1, preview 6, 60.00 %Scanning title 1 of 1, preview 7, 70.00 %Scanning title 1 of 1, preview 8, 80.00 %Scanning title 1 of 1, preview 8, 80.00 %Scanning title 1 of 1, preview 9, 90.00 %Scanning title 1 of 1, preview 10, 100.00 %[20:52:01] using bitstream PAR 32:27
-[20:52:01] scan: 10 previews, 720x480, 23.976 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 32:27, color profile: 6-1-6, chroma location: left
-[20:52:02] libhb: scan thread found 1 valid title(s)
-+ Using preset: H.265 Apple VideoToolbox 1080p
-+ title 5:
-  + index 5
-  + duration: 02:38:57
-  + size: 720x480, pixel aspect: 32/27, display aspect: 1.78, 23.976 fps
-  + autocrop: 0/0/0/0
-  + chapters:
-    + 1: duration 00:01:39
-    + 2: duration 00:10:06
-    + 3: duration 00:10:09
-    + 4: duration 00:14:16
-    + 5: duration 00:11:14
-    + 6: duration 00:00:40
-    + 7: duration 00:01:20
-    + 8: duration 00:13:54
-    + 9: duration 00:14:03
-    + 10: duration 00:16:12
-    + 11: duration 00:12:32
-    + 12: duration 00:00:45
-    + 13: duration 00:01:35
-    + 14: duration 00:11:54
-    + 15: duration 00:12:51
-    + 16: duration 00:12:53
-    + 17: duration 00:12:10
-    + 18: duration 00:00:44
-  + audio tracks:
-    + 1, English (AC3, 5.1 ch, 448 kbps) (iso639-2: eng), 48000Hz, 448000bps
-  + subtitle tracks:
-    + 1, English (Wide Screen) [VOBSUB]
-[20:52:02] Starting work at: Thu Jul 30 20:52:02 2026
-
-[20:52:02] 1 job(s) to process
-[20:52:02] json job:
-{
-    "Audio": {
-        "AudioList": [
-            {
-                "Bitrate": 160,
-                "CompressionLevel": -1.0,
-                "DRC": 0.0,
-                "DitherMethod": "auto",
-                "Encoder": "ca_aac",
-                "Gain": 0.0,
-                "Mixdown": "stereo",
-                "Name": "Stereo",
-                "NormalizeMixLevel": false,
-                "PresetEncoder": "ca_aac",
-                "Quality": -3.0,
-                "Samplerate": 0,
-                "Track": 0
-            }
-        ],
-        "CopyMask": [
-            "copy:aac"
-        ],
-        "FallbackEncoder": "none"
-    },
-    "Destination": {
-        "AlignAVStart": false,
-        "ChapterList": [
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 1,
-                    "Seconds": 39,
-                    "Ticks": 8919000
-                },
-                "Name": "Chapter 1"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 10,
-                    "Seconds": 6,
-                    "Ticks": 54540000
-                },
-                "Name": "Chapter 2"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 10,
-                    "Seconds": 9,
-                    "Ticks": 54843030
-                },
-                "Name": "Chapter 3"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 14,
-                    "Seconds": 16,
-                    "Ticks": 76997970
-                },
-                "Name": "Chapter 4"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 11,
-                    "Seconds": 14,
-                    "Ticks": 60671970
-                },
-                "Name": "Chapter 5"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 0,
-                    "Seconds": 40,
-                    "Ticks": 3627000
-                },
-                "Name": "Chapter 6"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 1,
-                    "Seconds": 20,
-                    "Ticks": 7229970
-                },
-                "Name": "Chapter 7"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 13,
-                    "Seconds": 54,
-                    "Ticks": 75054060
-                },
-                "Name": "Chapter 8"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 14,
-                    "Seconds": 3,
-                    "Ticks": 75870000
-                },
-                "Name": "Chapter 9"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 16,
-                    "Seconds": 12,
-                    "Ticks": 87437970
-                },
-                "Name": "Chapter 10"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 12,
-                    "Seconds": 32,
-                    "Ticks": 67713030
-                },
-                "Name": "Chapter 11"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 0,
-                    "Seconds": 45,
-                    "Ticks": 4011030
-                },
-                "Name": "Chapter 12"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 1,
-                    "Seconds": 35,
-                    "Ticks": 8514000
-                },
-                "Name": "Chapter 13"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 11,
-                    "Seconds": 54,
-                    "Ticks": 64262970
-                },
-                "Name": "Chapter 14"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 12,
-                    "Seconds": 51,
-                    "Ticks": 69417000
-                },
-                "Name": "Chapter 15"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 12,
-                    "Seconds": 53,
-                    "Ticks": 69584940
-                },
-                "Name": "Chapter 16"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 12,
-                    "Seconds": 10,
-                    "Ticks": 65676060
-                },
-                "Name": "Chapter 17"
-            },
-            {
-                "Duration": {
-                    "Hours": 0,
-                    "Minutes": 0,
-                    "Seconds": 44,
-                    "Ticks": 3998970
-                },
-                "Name": "Chapter 18"
-            }
-        ],
-        "ChapterMarkers": true,
-        "File": "/Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title5.mkv",
-        "InlineParameterSets": false,
-        "Mux": "mkv",
-        "Options": {
-            "IpodAtom": false,
-            "Optimize": false
-        }
-    },
-    "Filters": {
-        "FilterList": [
-            {
-                "ID": 11,
-                "Settings": {
-                    "mode": 0
-                }
-            },
-            {
-                "ID": 20,
-                "Settings": {
-                    "crop-bottom": 0,
-                    "crop-left": 0,
-                    "crop-right": 0,
-                    "crop-top": 0,
-                    "height": 480,
-                    "width": 720
-                }
-            }
-        ]
-    },
-    "Metadata": {},
-    "PAR": {
-        "Den": 27,
-        "Num": 32
-    },
-    "SequenceID": 0,
-    "Source": {
-        "Angle": 0,
-        "HWDecode": 0,
-        "KeepDuplicateTitles": false,
-        "Path": "/dev/disk5",
-        "Range": {
-            "End": 18,
-            "Start": 1,
-            "Type": "chapter"
-        },
-        "Title": 5
-    },
-    "Subtitle": {
-        "Search": {
-            "Burn": true,
-            "Default": false,
-            "Enable": false,
-            "Forced": false
-        },
-        "SubtitleList": []
-    },
-    "Video": {
-        "AdapterIndex": -1,
-        "AsyncDepth": 0,
-        "ChromaLocation": 1,
-        "ColorInputFormat": 0,
-        "ColorMatrix": 6,
-        "ColorOutputFormat": 0,
-        "ColorPrimaries": 6,
-        "ColorRange": 1,
-        "ColorTransfer": 1,
-        "Encoder": "vt_h265_10bit",
-        "HardwareDecode": 0,
-        "Level": "auto",
-        "MultiPass": false,
-        "Options": "",
-        "PasshtruHDRDynamicMetadata": 6,
-        "Preset": "speed",
-        "Profile": "auto",
-        "Quality": 60.0,
-        "Tune": "",
-        "Turbo": false
-    }
-}
-[20:52:02] Starting Task: Encoding Pass
-[20:52:02] work: skipping crop/scale filter
-[20:52:02] job configuration:
-[20:52:02]  * source
-[20:52:02]    + /dev/disk5
-[20:52:02]    + title 5, chapter(s) 1 to 18
-[20:52:02]  * destination
-[20:52:02]    + /Users/hippolytebuisson/Movies/Ripped/BILLIONS_SEASON_6_DISC_2/BILLIONS_SEASON_6_DISC_2_title5.mkv
-[20:52:02]    + container: Matroska (libavformat)
-[20:52:02]      + chapter markers
-[20:52:02]  * video track
-[20:52:02]    + decoder: mpeg2video 8-bit (yuv420p)
-[20:52:02]      + bitrate 200 kbps
-[20:52:02]    + filters
-[20:52:02]      + Framerate Shaper (mode=0)
-[20:52:02]        + frame rate: same as source (around 23.976 fps)
-[20:52:02]      + Format (format=nv12)
-[20:52:02]    + Output geometry
-[20:52:02]      + storage dimensions: 720 x 480
-[20:52:02]      + pixel aspect ratio: 32 : 27
-[20:52:02]      + display dimensions: 853 x 480
-[20:52:02]    + encoder: H.265 10-bit (VideoToolbox)
-[20:52:02]      + preset:  speed
-[20:52:02]      + profile: auto
-[20:52:02]      + level:   auto
-[20:52:02]      + quality: 60.00 (CQ)
-[20:52:02]      + color profile: 6-1-6
-[20:52:02]      + color range: tv
-[20:52:02]      + chroma location: left
-[20:52:02]  * audio track 1
-[20:52:02]    + name: Stereo
-[20:52:02]    + decoder: English (AC3, 5.1 ch, 448 kbps) (track 1, id 0x80bd)
-[20:52:02]      + bitrate: 448 kbps, samplerate: 48000 Hz
-[20:52:02]    + mixdown: Stereo
-[20:52:02]    + encoder: AAC (Apple AudioToolbox)
-[20:52:02]      + bitrate: 160 kbps, samplerate: 48000 Hz
-libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %libdvdnav: DVD Title: BILLIONS_SEASON_6_DISC_2
-libdvdnav: DVD Serial Number: 5481272a
-libdvdnav: DVD Title (Alternative): 
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-Encoding: task 1 of 1, 0.00 %[20:52:03] sync: expecting 228669 video frames
-libdvdnav: DVD disk reports itself with Region mask 0x00f40000. Regions: 01 02 04
-Encoding: task 1 of 1, 0.00 %[20:52:03] encvt_Init: encoding with constant quality 60.000000
-[20:52:03] encvt_Init: com.apple.videotoolbox.videoencoder.ave.hevc
-libdvdread: Attempting to retrieve all CSS keys
-libdvdread: This can take a _long_ time, please be patient
-libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00000155
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_0.VOB at 0x000007c5
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00009fd9
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_0.VOB at 0x0000a040
-libdvdread: Elapsed time 0
-libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x0000a05b
-libdvdread: Elapsed time 0
-libdvdread: Found 3 VTS's
-libdvdread: Elapsed time 0
-Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.00 %[20:52:03] sync: first pts video is 0
-[20:52:03] sync: "Chapter 1" (1) at frame 1 time 0
-[20:52:03] sync: first pts audio 0x80bd is 0
-Encoding: task 1 of 1, 0.00 %Encoding: task 1 of 1, 0.02 %Encoding: task 1 of 1, 0.05 %Encoding: task 1 of 1, 0.06 %Encoding: task 1 of 1, 0.07 %Encoding: task 1 of 1, 0.07 %Encoding: task 1 of 1, 0.09 %Encoding: task 1 of 1, 0.10 %Encoding: task 1 of 1, 0.11 %Encoding: task 1 of 1, 0.12 %Encoding: task 1 of 1, 0.13 %Encoding: task 1 of 1, 0.14 %Encoding: task 1 of 1, 0.15 %Encoding: task 1 of 1, 0.17 %Encoding: task 1 of 1, 0.18 %Encoding: task 1 of 1, 0.20 %Encoding: task 1 of 1, 0.22 %Encoding: task 1 of 1, 0.24 %Encoding: task 1 of 1, 0.25 %Encoding: task 1 of 1, 0.25 %Encoding: task 1 of 1, 0.25 %Encoding: task 1 of 1, 0.26 % (130.06 fps, avg 136.96 fps, ETA 00h27m45s)Encoding: task 1 of 1, 0.28 % (130.06 fps, avg 136.96 fps, ETA 00h27m45s)Encoding: task 1 of 1, 0.29 % (130.06 fps, avg 136.96 fps, ETA 00h27m45s)Encoding: task 1 of 1, 0.30 % (130.06 fps, avg 136.96 fps, ETA 00h27m45s)Encoding: task 1 of 1, 0.32 % (130.06 fps, avg 136.96 fps, ETA 00h27m45s)Encoding: task 1 of 1, 0.33 % (141.49 fps, avg 141.88 fps, ETA 00h26m46s)Encoding: task 1 of 1, 0.35 % (141.49 fps, avg 141.88 fps, ETA 00h26m46s)Encoding: task 1 of 1, 0.36 % (141.49 fps, avg 141.88 fps, ETA 00h26m46s)Encoding: task 1 of 1, 0.38 % (141.49 fps, avg 141.88 fps, ETA 00h26m46s)Encoding: task 1 of 1, 0.39 % (141.49 fps, avg 141.88 fps, ETA 00h26m46s)Encoding: task 1 of 1, 0.40 % (140.21 fps, avg 144.75 fps, ETA 00h26m13s)Encoding: task 1 of 1, 0.42 % (140.21 fps, avg 144.75 fps, ETA 00h26m13s)Encoding: task 1 of 1, 0.44 % (140.21 fps, avg 144.75 fps, ETA 00h26m13s)Encoding: task 1 of 1, 0.46 % (140.21 fps, avg 144.75 fps, ETA 00h26m13s)Encoding: task 1 of 1, 0.47 % (140.21 fps, avg 144.75 fps, ETA 00h26m13s)Encoding: task 1 of 1, 0.49 % (170.19 fps, avg 150.99 fps, ETA 00h25m07s)Encoding: task 1 of 1, 0.51 % (170.19 fps, avg 150.99 fps, ETA 00h25m07s)Encoding: task 1 of 1, 0.53 % (170.19 fps, avg 150.99 fps, ETA 00h25m07s)Encoding: task 1 of 1, 0.55 % (170.19 fps, avg 150.99 fps, ETA 00h25m07s)Encoding: task 1 of 1, 0.57 % (170.19 fps, avg 150.99 fps, ETA 00h25m07s)Encoding: task 1 of 1, 0.59 % (187.31 fps, avg 158.45 fps, ETA 00h23m54s)Encoding: task 1 of 1, 0.61 % (187.31 fps, avg 158.45 fps, ETA 00h23m54s)Encoding: task 1 of 1, 0.63 % (187.31 fps, avg 158.45 fps, ETA 00h23m54s)Encoding: task 1 of 1, 0.65 % (187.31 fps, avg 158.45 fps, ETA 00h23m54s)Encoding: task 1 of 1, 0.67 % (187.31 fps, avg 158.45 fps, ETA 00h23m54s)Encoding: task 1 of 1, 0.69 % (212.33 fps, avg 166.76 fps, ETA 00h22m41s)Encoding: task 1 of 1, 0.71 % (212.33 fps, avg 166.76 fps, ETA 00h22m41s)Encoding: task 1 of 1, 0.72 % (212.33 fps, avg 166.76 fps, ETA 00h22m41s)Encoding: task 1 of 1, 0.73 % (212.33 fps, avg 166.76 fps, ETA 00h22m41s)Encoding: task 1 of 1, 0.75 % (212.33 fps, avg 166.76 fps, ETA 00h22m41s)Encoding: task 1 of 1, 0.77 % (209.45 fps, avg 168.14 fps, ETA 00h22m29s)Encoding: task 1 of 1, 0.79 % (209.45 fps, avg 168.14 fps, ETA 00h22m29s)Encoding: task 1 of 1, 0.80 % (209.45 fps, avg 168.14 fps, ETA 00h22m29s)Encoding: task 1 of 1, 0.82 % (209.45 fps, avg 168.14 fps, ETA 00h22m29s)Encoding: task 1 of 1, 0.84 % (209.45 fps, avg 168.14 fps, ETA 00h22m29s)Encoding: task 1 of 1, 0.91 % (199.27 fps, avg 169.35 fps, ETA 00h22m18s)Encoding: task 1 of 1, 0.95 % (199.27 fps, avg 169.35 fps, ETA 00h22m18s)Encoding: task 1 of 1, 0.97 % (199.27 fps, avg 169.35 fps, ETA 00h22m18s)Encoding: task 1 of 1, 0.98 % (199.27 fps, avg 169.35 fps, ETA 00h22m18s)[20:52:15] sync: "Chapter 2" (2) at frame 2379 time 8926417
-Encoding: task 1 of 1, 1.06 % (199.27 fps, avg 169.35 fps, ETA 00h22m18s)Encoding: task 1 of 1, 1.07 % (287.90 fps, avg 196.33 fps, ETA 00h19m12s)Starting MakeMKV autoloader monitor...
-Encoding: task 1 of 1, 1.09 % (287.90 fps, avg 196.33 fps, ETA 00h19m12s)Encoding: task 1 of 1, 1.10 % (287.90 fps, avg 196.33 fps, ETA 00h19m12s)Encoding: task 1 of 1, 1.11 % (287.90 fps, avg 196.33 fps, ETA 00h19m12s)Encoding: task 1 of 1, 1.13 % (287.90 fps, avg 196.33 fps, ETA 00h19m12s)Encoding: task 1 of 1, 1.14 % (284.11 fps, avg 194.44 fps, ETA 00h19m22s)Encoding: task 1 of 1, 1.14 % (284.11 fps, avg 194.44 fps, ETA 00h19m22s)Encoding: task 1 of 1, 1.14 % (284.11 fps, avg 194.44 fps, ETA 00h19m22s)Encoding: task 1 of 1, 1.14 % (284.11 fps, avg 194.44 fps, ETA 00h19m22s)Encoding: task 1 of 1, 1.14 % (284.11 fps, avg 194.44 fps, ETA 00h19m22s)Encoding: task 1 of 1, 1.14 % (284.11 fps, avg 194.44 fps, ETA 00h19m22s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.14 % (211.98 fps, avg 178.87 fps, ETA 00h21m03s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.15 % (43.38 fps, avg 154.69 fps, ETA 00h24m21s)Encoding: task 1 of 1, 1.17 % (6.10 fps, avg 136.72 fps, ETA 00h27m33s)Encoding: task 1 of 1, 1.19 % (6.10 fps, avg 136.72 fps, ETA 00h27m33s)Disc detected. Creating lock file and starting rip script.
-Encoding: task 1 of 1, 1.21 % (6.10 fps, avg 136.72 fps, ETA 00h27m33s)Encoding: task 1 of 1, 1.21 % (6.10 fps, avg 136.72 fps, ETA 00h27m33s)ERROR: dvdnav: Read Error, Error reading from DVD.
-[20:52:23] reader: done. 1 scr changes
-[20:52:23] work: average encoding speed for job is 136.717941 fps
-Encoding: task 1 of 1, 1.23 % (6.10 fps, avg 136.72 fps, ETA 00h27m33s)[20:52:23] vfr: 2810 frames output, 0 dropped
-[20:52:23] vfr: lost time: 0 (0 frames)
-[20:52:23] vfr: gained time: 0 (0 frames) (0 not accounted for)
-[20:52:23] ac3-decoder done: 3656 frames, 0 decoder errors
-[20:52:23] mpeg2video-decoder done: 2810 frames, 0 decoder errors
-[20:52:23] sync: got 2810 frames, 228669 expected
-[20:52:23] sync: framerate min 19.980 fps, max 23.976 fps, avg 23.974 fps
-[20:52:23] mux: track 0, 2810 frames, 4778752 bytes, 326.19 kbps, fifo 4096
-[20:52:23] mux: track 1, 5487 frames, 2452122 bytes, 167.38 kbps, fifo 8192
-[20:52:23] Finished work at: Thu Jul 30 20:52:23 2026
-
-[20:52:24] libhb: work result = 5
-
-Encode failed (error 5).
-HandBrake has exited.
-
-Starting Hybrid Ripping Pipeline...
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-Forced unmount of all volumes on disk4 was successful
-Starting fresh ddrescue in FORWARD mode...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Map file found. Skipping MakeMKV and jumping directly to ddrescue.
-Forced unmount of all volumes on disk4 was successful
-Map file found. Resuming ddrescue in REVERSE mode...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-Forced unmount of all volumes on disk4 was successful
-Starting fresh ddrescue in FORWARD mode...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
-No titles found during pre-scan. Falling back to rip all.
-Ripping title all...
-Forced unmount of all volumes on disk4 was successful
-Starting fresh ddrescue in FORWARD mode...
-Forced unmount of all volumes on disk4 was successful
-Disk /dev/rdisk4 ejected
-Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
 Pre-scanning disc for smart title selection...
   Title 0: 172m 23s ✓
   Title 1: 52m 34s ✓
@@ -1272,12 +8,8 @@ Pre-scanning disc for smart title selection...
   Title 3: 60m 0s ✓
   → Detected 'Play All' composite: Title 0 (172m ≈ sum of others 172m). Skipping!
 Selected titles: 1 2 3
-Ripping title 1...
+Forcing Title 2 selection for Billions Season 5 Disc 4 rerip.
 Ripping title 2...
-Ripping title 3...
 Forced unmount of all volumes on disk4 was successful
 Disk /dev/rdisk4 ejected
 Drive is empty. Removing lock file.
-Disc detected. Creating lock file and starting rip script.
-Starting Hybrid Ripping Pipeline...
-Pre-scanning disc for smart title selection...
