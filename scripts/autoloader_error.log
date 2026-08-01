@@ -1,0 +1,17 @@
+Failed to find disk /dev/rdisk4
+Failed to find disk /dev/rdisk4
+./rip_disc.sh: line 111:  8042 Terminated: 15          caffeinate -dims "$DDRESCUE" -n -b 2048 -T 5m "$DEVICE_PATH" "$ISO_FILE" "$MAP_FILE" 2>&1
+      8043 Broken pipe: 13         | tr '\r' '\n'
+      8044                       | tee "$LOG_FILE" > /dev/null
+./autoloader.sh: line 54:  7974 Terminated: 15          "$RIP_SCRIPT"
+Failed to find disk /dev/rdisk4
+Failed to find disk /dev/rdisk4
+./autoloader.sh: line 54: 25519 Killed: 9               "$RIP_SCRIPT"
+./scripts/rip_disc.sh: line 226: 80196 Killed: 9               caffeinate -dims "$DDRESCUE" $DD_FLAGS "$DEVICE_PATH" "$ISO_FILE" "$MAP_FILE" 2>&1
+     80197 Broken pipe: 13         | tr '\r' '\n'
+     80198                       | tee "$LOG_FILE" > /dev/null
+./scripts/autoloader.sh: line 67: 80158 Killed: 9               "$RIP_SCRIPT"
+./scripts/rip_disc.sh: line 241: 80918 Killed: 9               caffeinate -dims "$DDRESCUE" $DD_FLAGS "$DEVICE_PATH" "$ISO_FILE" "$MAP_FILE" 2>&1
+     80919 Broken pipe: 13         | tr '\r' '\n'
+     80920                       | tee "$LOG_FILE" > /dev/null
+./scripts/autoloader.sh: line 67: 80867 Killed: 9               "$RIP_SCRIPT"
