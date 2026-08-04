@@ -5,7 +5,7 @@ NOTIFY_SCRIPT="$(dirname "$0")/notify.sh"
 MAKEMKVCON="/Applications/MakeMKV.app/Contents/MacOS/makemkvcon"
 DDRESCUE="/opt/homebrew/bin/ddrescue"
 BASE_DIR="/Users/hippolytebuisson/Movies/Ripped"
-MIN_DURATION_SECS=1200  # Skip titles shorter than 20 minutes (features, extras, trailers, menus)
+MIN_DURATION_SECS=1800  # Skip titles shorter than 30 minutes (features, extras, trailers, menus)
 
 # Ensure base directory exists
 mkdir -p "$BASE_DIR"

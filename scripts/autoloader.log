@@ -263,3 +263,598 @@ Forced unmount of all volumes on disk4 was successful
 Disk /dev/rdisk4 ejected
 Drive is empty. Removing lock file.
 Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 7s ✓
+  Title 1: 47m 7s ✓
+  Title 2: 47m 7s ✓
+  Title 3: 47m 8s ✓
+  Title 4: 2m 23s ✗ (under 1200s, skipping)
+  Title 5: 3m 13s ✗ (under 1200s, skipping)
+  Title 6: 13m 0s ✗ (under 1200s, skipping)
+  Title 7: 2m 49s ✗ (under 1200s, skipping)
+  Title 8: 4m 31s ✗ (under 1200s, skipping)
+  Title 9: 2m 11s ✗ (under 1200s, skipping)
+  Title 10: 3m 14s ✗ (under 1200s, skipping)
+  Title 11: 25m 50s ✓
+  Title 12: 4m 39s ✗ (under 1200s, skipping)
+  Title 13: 4m 58s ✗ (under 1200s, skipping)
+  Title 14: 4m 59s ✗ (under 1200s, skipping)
+  Title 15: 4m 36s ✗ (under 1200s, skipping)
+  Title 16: 2m 51s ✗ (under 1200s, skipping)
+  Title 17: 2m 2s ✗ (under 1200s, skipping)
+  Title 18: 20m 52s ✓
+  Title 19: 5m 38s ✗ (under 1200s, skipping)
+  Title 20: 5m 26s ✗ (under 1200s, skipping)
+  Title 21: 5m 10s ✗ (under 1200s, skipping)
+  Title 22: 4m 56s ✗ (under 1200s, skipping)
+Selected titles: 0 1 2 3 11 18
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Ripping title 3...
+Ripping title 11...
+Ripping title 18...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 15s ✓
+  Title 1: 47m 17s ✓
+  Title 2: 47m 15s ✓
+  Title 3: 3m 24s ✗ (under 1800s, skipping)
+  Title 4: 2m 34s ✗ (under 1800s, skipping)
+  Title 5: 3m 1s ✗ (under 1800s, skipping)
+  Title 6: 3m 58s ✗ (under 1800s, skipping)
+  Title 7: 2m 0s ✗ (under 1800s, skipping)
+  Title 8: 2m 47s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Volume failed to eject
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 15s ✓
+  Title 1: 47m 15s ✓
+  Title 2: 47m 15s ✓
+  Title 3: 4m 16s ✗ (under 1800s, skipping)
+  Title 4: 2m 7s ✗ (under 1800s, skipping)
+  Title 5: 3m 10s ✗ (under 1800s, skipping)
+  Title 6: 3m 10s ✗ (under 1800s, skipping)
+  Title 7: 3m 36s ✗ (under 1800s, skipping)
+  Title 8: 2m 27s ✗ (under 1800s, skipping)
+  Title 9: 2m 32s ✗ (under 1800s, skipping)
+  Title 10: 2m 28s ✗ (under 1800s, skipping)
+  Title 11: 2m 4s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 16s ✓
+  Title 1: 47m 19s ✓
+  Title 2: 47m 28s ✓
+  Title 3: 2m 45s ✗ (under 1800s, skipping)
+  Title 4: 3m 52s ✗ (under 1800s, skipping)
+  Title 5: 2m 20s ✗ (under 1800s, skipping)
+  Title 6: 5m 36s ✗ (under 1800s, skipping)
+  Title 7: 2m 18s ✗ (under 1800s, skipping)
+  Title 8: 3m 48s ✗ (under 1800s, skipping)
+  Title 9: 3m 41s ✗ (under 1800s, skipping)
+  Title 10: 3m 50s ✗ (under 1800s, skipping)
+  Title 11: 10m 22s ✗ (under 1800s, skipping)
+  Title 12: 2m 8s ✗ (under 1800s, skipping)
+  Title 13: 2m 8s ✗ (under 1800s, skipping)
+  Title 14: 3m 13s ✗ (under 1800s, skipping)
+  Title 15: 3m 8s ✗ (under 1800s, skipping)
+  Title 16: 3m 14s ✗ (under 1800s, skipping)
+  Title 17: 4m 30s ✗ (under 1800s, skipping)
+  Title 18: 3m 58s ✗ (under 1800s, skipping)
+  Title 19: 3m 4s ✗ (under 1800s, skipping)
+  Title 20: 3m 28s ✗ (under 1800s, skipping)
+  Title 21: 2m 4s ✗ (under 1800s, skipping)
+  Title 22: 4m 51s ✗ (under 1800s, skipping)
+  Title 23: 2m 54s ✗ (under 1800s, skipping)
+  Title 24: 4m 51s ✗ (under 1800s, skipping)
+  Title 25: 4m 14s ✗ (under 1800s, skipping)
+  Title 26: 3m 4s ✗ (under 1800s, skipping)
+  Title 27: 2m 49s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 7s ✓
+  Title 1: 47m 8s ✓
+  Title 2: 47m 9s ✓
+  Title 3: 2m 26s ✗ (under 1800s, skipping)
+  Title 4: 2m 26s ✗ (under 1800s, skipping)
+  Title 5: 3m 20s ✗ (under 1800s, skipping)
+  Title 6: 7m 25s ✗ (under 1800s, skipping)
+  Title 7: 2m 30s ✗ (under 1800s, skipping)
+  Title 8: 16m 5s ✗ (under 1800s, skipping)
+  Title 9: 4m 38s ✗ (under 1800s, skipping)
+  Title 10: 4m 30s ✗ (under 1800s, skipping)
+  Title 11: 4m 24s ✗ (under 1800s, skipping)
+  Title 12: 2m 33s ✗ (under 1800s, skipping)
+  Title 13: 15m 40s ✗ (under 1800s, skipping)
+  Title 14: 5m 32s ✗ (under 1800s, skipping)
+  Title 15: 5m 2s ✗ (under 1800s, skipping)
+  Title 16: 5m 20s ✗ (under 1800s, skipping)
+  Title 17: 3m 34s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 5s ✓
+  Title 1: 45m 53s ✓
+  Title 2: 46m 7s ✓
+  Title 3: 45m 6s ✓
+  Title 4: 4m 17s ✗ (under 1800s, skipping)
+  Title 5: 4m 1s ✗ (under 1800s, skipping)
+  Title 6: 18m 19s ✗ (under 1800s, skipping)
+  Title 7: 4m 18s ✗ (under 1800s, skipping)
+  Title 8: 4m 29s ✗ (under 1800s, skipping)
+  Title 9: 3m 41s ✗ (under 1800s, skipping)
+  Title 10: 3m 25s ✗ (under 1800s, skipping)
+  Title 11: 2m 54s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2 3
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Ripping title 3...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 9s ✓
+  Title 1: 47m 9s ✓
+  Title 2: 47m 8s ✓
+  Title 3: 4m 35s ✗ (under 1800s, skipping)
+  Title 4: 4m 3s ✗ (under 1800s, skipping)
+  Title 5: 11m 55s ✗ (under 1800s, skipping)
+  Title 6: 2m 8s ✗ (under 1800s, skipping)
+  Title 7: 2m 34s ✗ (under 1800s, skipping)
+  Title 8: 2m 12s ✗ (under 1800s, skipping)
+  Title 9: 3m 18s ✗ (under 1800s, skipping)
+  Title 10: 13m 2s ✗ (under 1800s, skipping)
+  Title 11: 4m 6s ✗ (under 1800s, skipping)
+  Title 12: 4m 24s ✗ (under 1800s, skipping)
+  Title 13: 4m 32s ✗ (under 1800s, skipping)
+  Title 14: 15m 54s ✗ (under 1800s, skipping)
+  Title 15: 5m 17s ✗ (under 1800s, skipping)
+  Title 16: 5m 0s ✗ (under 1800s, skipping)
+  Title 17: 5m 49s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 10s ✓
+  Title 1: 47m 7s ✓
+  Title 2: 47m 8s ✓
+  Title 3: 8m 37s ✗ (under 1800s, skipping)
+  Title 4: 23m 59s ✗ (under 1800s, skipping)
+  Title 5: 4m 8s ✗ (under 1800s, skipping)
+  Title 6: 5m 3s ✗ (under 1800s, skipping)
+  Title 7: 4m 2s ✗ (under 1800s, skipping)
+  Title 8: 4m 15s ✗ (under 1800s, skipping)
+  Title 9: 3m 30s ✗ (under 1800s, skipping)
+  Title 10: 3m 1s ✗ (under 1800s, skipping)
+  Title 11: 16m 6s ✗ (under 1800s, skipping)
+  Title 12: 5m 10s ✗ (under 1800s, skipping)
+  Title 13: 5m 40s ✗ (under 1800s, skipping)
+  Title 14: 5m 28s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 46m 51s ✓
+  Title 1: 45m 52s ✓
+  Title 2: 50m 21s ✓
+  Title 3: 23m 11s ✗ (under 1800s, skipping)
+  Title 4: 24m 47s ✗ (under 1800s, skipping)
+  Title 5: 5m 6s ✗ (under 1800s, skipping)
+  Title 6: 5m 3s ✗ (under 1800s, skipping)
+  Title 7: 5m 3s ✗ (under 1800s, skipping)
+  Title 8: 3m 0s ✗ (under 1800s, skipping)
+  Title 9: 3m 30s ✗ (under 1800s, skipping)
+  Title 10: 3m 40s ✗ (under 1800s, skipping)
+  Title 11: 2m 6s ✗ (under 1800s, skipping)
+  Title 12: 2m 39s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 6s ✓
+  Title 1: 47m 6s ✓
+  Title 2: 47m 7s ✓
+  Title 3: 8m 54s ✗ (under 1800s, skipping)
+  Title 4: 4m 59s ✗ (under 1800s, skipping)
+  Title 5: 6m 28s ✗ (under 1800s, skipping)
+  Title 6: 3m 59s ✗ (under 1800s, skipping)
+  Title 7: 2m 34s ✗ (under 1800s, skipping)
+  Title 8: 6m 40s ✗ (under 1800s, skipping)
+  Title 9: 4m 50s ✗ (under 1800s, skipping)
+  Title 10: 22m 50s ✗ (under 1800s, skipping)
+  Title 11: 4m 20s ✗ (under 1800s, skipping)
+  Title 12: 3m 14s ✗ (under 1800s, skipping)
+  Title 13: 4m 53s ✗ (under 1800s, skipping)
+  Title 14: 2m 55s ✗ (under 1800s, skipping)
+  Title 15: 3m 18s ✗ (under 1800s, skipping)
+  Title 16: 4m 45s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Volume failed to eject
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 7s ✓
+  Title 1: 47m 6s ✓
+  Title 2: 47m 6s ✓
+  Title 3: 4m 9s ✗ (under 1800s, skipping)
+  Title 4: 4m 19s ✗ (under 1800s, skipping)
+  Title 5: 5m 40s ✗ (under 1800s, skipping)
+  Title 6: 4m 42s ✗ (under 1800s, skipping)
+  Title 7: 5m 34s ✗ (under 1800s, skipping)
+  Title 8: 3m 6s ✗ (under 1800s, skipping)
+  Title 9: 3m 55s ✗ (under 1800s, skipping)
+  Title 10: 3m 59s ✗ (under 1800s, skipping)
+  Title 11: 2m 8s ✗ (under 1800s, skipping)
+  Title 12: 16m 44s ✗ (under 1800s, skipping)
+  Title 13: 4m 55s ✗ (under 1800s, skipping)
+  Title 14: 4m 40s ✗ (under 1800s, skipping)
+  Title 15: 5m 7s ✗ (under 1800s, skipping)
+  Title 16: 2m 23s ✗ (under 1800s, skipping)
+  Title 17: 3m 0s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 42m 57s ✓
+  Title 1: 47m 14s ✓
+  Title 2: 47m 12s ✓
+  Title 3: 8m 37s ✗ (under 1800s, skipping)
+  Title 4: 3m 21s ✗ (under 1800s, skipping)
+  Title 5: 4m 8s ✗ (under 1800s, skipping)
+  Title 6: 38m 5s ✓
+  Title 7: 5m 25s ✗ (under 1800s, skipping)
+  Title 8: 5m 13s ✗ (under 1800s, skipping)
+  Title 9: 5m 23s ✗ (under 1800s, skipping)
+  Title 10: 4m 20s ✗ (under 1800s, skipping)
+  Title 11: 5m 18s ✗ (under 1800s, skipping)
+  Title 12: 3m 41s ✗ (under 1800s, skipping)
+  Title 13: 4m 17s ✗ (under 1800s, skipping)
+  Title 14: 3m 50s ✗ (under 1800s, skipping)
+  Title 15: 3m 36s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2 6
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Ripping title 6...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 17s ✓
+  Title 1: 47m 18s ✓
+  Title 2: 47m 18s ✓
+  Title 3: 6m 13s ✗ (under 1800s, skipping)
+  Title 4: 5m 40s ✗ (under 1800s, skipping)
+  Title 5: 4m 5s ✗ (under 1800s, skipping)
+  Title 6: 2m 29s ✗ (under 1800s, skipping)
+  Title 7: 4m 55s ✗ (under 1800s, skipping)
+  Title 8: 4m 0s ✗ (under 1800s, skipping)
+  Title 9: 3m 24s ✗ (under 1800s, skipping)
+  Title 10: 3m 14s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 12s ✓
+  Title 1: 47m 16s ✓
+  Title 2: 8m 15s ✗ (under 1800s, skipping)
+  Title 3: 10m 58s ✗ (under 1800s, skipping)
+  Title 4: 21m 48s ✗ (under 1800s, skipping)
+  Title 5: 4m 48s ✗ (under 1800s, skipping)
+  Title 6: 5m 5s ✗ (under 1800s, skipping)
+  Title 7: 6m 16s ✗ (under 1800s, skipping)
+  Title 8: 5m 54s ✗ (under 1800s, skipping)
+  Title 9: 8m 12s ✗ (under 1800s, skipping)
+  Title 10: 6m 57s ✗ (under 1800s, skipping)
+  Title 11: 2m 17s ✗ (under 1800s, skipping)
+Selected titles: 0 1
+Ripping title 0...
+Ripping title 1...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 22s ✓
+  Title 1: 47m 57s ✓
+  Title 2: 47m 18s ✓
+  Title 3: 3m 16s ✗ (under 1800s, skipping)
+  Title 4: 15m 36s ✗ (under 1800s, skipping)
+  Title 5: 3m 34s ✗ (under 1800s, skipping)
+  Title 6: 28m 56s ✗ (under 1800s, skipping)
+  Title 7: 5m 33s ✗ (under 1800s, skipping)
+  Title 8: 4m 27s ✗ (under 1800s, skipping)
+  Title 9: 4m 46s ✗ (under 1800s, skipping)
+  Title 10: 4m 23s ✗ (under 1800s, skipping)
+  Title 11: 5m 48s ✗ (under 1800s, skipping)
+  Title 12: 4m 29s ✗ (under 1800s, skipping)
+  Title 13: 5m 3s ✗ (under 1800s, skipping)
+  Title 14: 2m 1s ✗ (under 1800s, skipping)
+  Title 15: 2m 11s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 53m 20s ✓
+  Title 1: 55m 8s ✓
+  Title 2: 2m 41s ✗ (under 1800s, skipping)
+  Title 3: 10m 0s ✗ (under 1800s, skipping)
+  Title 4: 9m 37s ✗ (under 1800s, skipping)
+  Title 5: 4m 22s ✗ (under 1800s, skipping)
+  Title 6: 3m 32s ✗ (under 1800s, skipping)
+  Title 7: 5m 47s ✗ (under 1800s, skipping)
+  Title 8: 3m 50s ✗ (under 1800s, skipping)
+  Title 9: 3m 40s ✗ (under 1800s, skipping)
+  Title 10: 5m 7s ✗ (under 1800s, skipping)
+Selected titles: 0 1
+Ripping title 0...
+Ripping title 1...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 11s ✓
+  Title 1: 46m 7s ✓
+  Title 2: 47m 8s ✓
+  Title 3: 6m 17s ✗ (under 1800s, skipping)
+  Title 4: 14m 23s ✗ (under 1800s, skipping)
+  Title 5: 4m 58s ✗ (under 1800s, skipping)
+  Title 6: 3m 18s ✗ (under 1800s, skipping)
+  Title 7: 3m 59s ✗ (under 1800s, skipping)
+  Title 8: 3m 16s ✗ (under 1800s, skipping)
+  Title 9: 4m 3s ✗ (under 1800s, skipping)
+  Title 10: 4m 6s ✗ (under 1800s, skipping)
+  Title 11: 3m 11s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Volume failed to eject
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 22s ✓
+  Title 1: 47m 57s ✓
+  Title 2: 47m 18s ✓
+  Title 3: 3m 16s ✗ (under 1800s, skipping)
+  Title 4: 15m 36s ✗ (under 1800s, skipping)
+  Title 5: 3m 34s ✗ (under 1800s, skipping)
+  Title 6: 28m 56s ✗ (under 1800s, skipping)
+  Title 7: 5m 33s ✗ (under 1800s, skipping)
+  Title 8: 4m 27s ✗ (under 1800s, skipping)
+  Title 9: 4m 46s ✗ (under 1800s, skipping)
+  Title 10: 4m 23s ✗ (under 1800s, skipping)
+  Title 11: 5m 48s ✗ (under 1800s, skipping)
+  Title 12: 4m 29s ✗ (under 1800s, skipping)
+  Title 13: 5m 3s ✗ (under 1800s, skipping)
+  Title 14: 2m 1s ✗ (under 1800s, skipping)
+  Title 15: 2m 11s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 10s ✓
+  Title 1: 47m 7s ✓
+  Title 2: 47m 8s ✓
+  Title 3: 8m 37s ✗ (under 1800s, skipping)
+  Title 4: 23m 59s ✗ (under 1800s, skipping)
+  Title 5: 4m 8s ✗ (under 1800s, skipping)
+  Title 6: 5m 3s ✗ (under 1800s, skipping)
+  Title 7: 4m 2s ✗ (under 1800s, skipping)
+  Title 8: 4m 15s ✗ (under 1800s, skipping)
+  Title 9: 3m 30s ✗ (under 1800s, skipping)
+  Title 10: 3m 1s ✗ (under 1800s, skipping)
+  Title 11: 16m 6s ✗ (under 1800s, skipping)
+  Title 12: 5m 10s ✗ (under 1800s, skipping)
+  Title 13: 5m 40s ✗ (under 1800s, skipping)
+  Title 14: 5m 28s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Volume failed to eject
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 12s ✓
+  Title 1: 47m 16s ✓
+  Title 2: 8m 15s ✗ (under 1800s, skipping)
+  Title 3: 10m 58s ✗ (under 1800s, skipping)
+  Title 4: 21m 48s ✗ (under 1800s, skipping)
+  Title 5: 4m 48s ✗ (under 1800s, skipping)
+  Title 6: 5m 5s ✗ (under 1800s, skipping)
+  Title 7: 6m 16s ✗ (under 1800s, skipping)
+  Title 8: 5m 54s ✗ (under 1800s, skipping)
+  Title 9: 8m 12s ✗ (under 1800s, skipping)
+  Title 10: 6m 57s ✗ (under 1800s, skipping)
+  Title 11: 2m 17s ✗ (under 1800s, skipping)
+Selected titles: 0 1
+Ripping title 0...
+Ripping title 1...
+Forced unmount of all volumes on disk4 was successful
+Volume failed to eject
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 17s ✓
+  Title 1: 47m 18s ✓
+  Title 2: 47m 18s ✓
+  Title 3: 6m 13s ✗ (under 1800s, skipping)
+  Title 4: 5m 40s ✗ (under 1800s, skipping)
+  Title 5: 4m 5s ✗ (under 1800s, skipping)
+  Title 6: 2m 29s ✗ (under 1800s, skipping)
+  Title 7: 4m 55s ✗ (under 1800s, skipping)
+  Title 8: 4m 0s ✗ (under 1800s, skipping)
+  Title 9: 3m 24s ✗ (under 1800s, skipping)
+  Title 10: 3m 14s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 47m 11s ✓
+  Title 1: 46m 7s ✓
+  Title 2: 47m 8s ✓
+  Title 3: 6m 17s ✗ (under 1800s, skipping)
+  Title 4: 14m 23s ✗ (under 1800s, skipping)
+  Title 5: 4m 58s ✗ (under 1800s, skipping)
+  Title 6: 3m 18s ✗ (under 1800s, skipping)
+  Title 7: 3m 59s ✗ (under 1800s, skipping)
+  Title 8: 3m 16s ✗ (under 1800s, skipping)
+  Title 9: 4m 3s ✗ (under 1800s, skipping)
+  Title 10: 4m 6s ✗ (under 1800s, skipping)
+  Title 11: 3m 11s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 53m 20s ✓
+  Title 1: 55m 8s ✓
+  Title 2: 2m 41s ✗ (under 1800s, skipping)
+  Title 3: 10m 0s ✗ (under 1800s, skipping)
+  Title 4: 9m 37s ✗ (under 1800s, skipping)
+  Title 5: 4m 22s ✗ (under 1800s, skipping)
+  Title 6: 3m 32s ✗ (under 1800s, skipping)
+  Title 7: 5m 47s ✗ (under 1800s, skipping)
+  Title 8: 3m 50s ✗ (under 1800s, skipping)
+  Title 9: 3m 40s ✗ (under 1800s, skipping)
+  Title 10: 5m 7s ✗ (under 1800s, skipping)
+Selected titles: 0 1
+Ripping title 0...
+Ripping title 1...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
+Disc detected. Creating lock file and starting rip script.
+Starting Hybrid Ripping Pipeline...
+Pre-scanning disc for smart title selection...
+  Title 0: 42m 57s ✓
+  Title 1: 47m 14s ✓
+  Title 2: 47m 12s ✓
+  Title 3: 8m 37s ✗ (under 1800s, skipping)
+  Title 4: 3m 21s ✗ (under 1800s, skipping)
+  Title 5: 4m 8s ✗ (under 1800s, skipping)
+  Title 6: 38m 5s ✓
+  Title 7: 5m 25s ✗ (under 1800s, skipping)
+  Title 8: 5m 13s ✗ (under 1800s, skipping)
+  Title 9: 5m 23s ✗ (under 1800s, skipping)
+  Title 10: 4m 20s ✗ (under 1800s, skipping)
+  Title 11: 5m 18s ✗ (under 1800s, skipping)
+  Title 12: 3m 41s ✗ (under 1800s, skipping)
+  Title 13: 4m 17s ✗ (under 1800s, skipping)
+  Title 14: 3m 50s ✗ (under 1800s, skipping)
+  Title 15: 3m 36s ✗ (under 1800s, skipping)
+Selected titles: 0 1 2 6
+Ripping title 0...
+Ripping title 1...
+Ripping title 2...
+Ripping title 6...
+Forced unmount of all volumes on disk4 was successful
+Disk /dev/rdisk4 ejected
+Drive is empty. Removing lock file.
